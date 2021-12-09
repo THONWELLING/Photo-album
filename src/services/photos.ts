@@ -1,5 +1,5 @@
 
-import { Photo } from '../types/photo'
+import { Photo } from '../types/Photo'
 
 
 
